@@ -2,7 +2,7 @@ import PlanningPassInfo from "./components/PlanningPassInfo";
 import "./App.module.css";
 
 function App() {
-    return <PlanningPassInfo />;
+  return <PlanningPassInfo />;
 }
 
 export default App;

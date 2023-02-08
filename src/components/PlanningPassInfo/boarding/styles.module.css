@@ -1,0 +1,156 @@
+.boardingTag {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 32px;
+  gap: 24px;
+
+  background: #ffffff;
+  border-radius: 1.5rem;
+
+  width: 327px;
+  height: 269px;
+
+  border-radius: 24px;
+}
+
+.boardingContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+
+  width: 263px;
+  height: 177px;
+}
+
+.boardingInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 16px;
+
+  width: 95px;
+  height: 150px;
+}
+
+.boardingTime {
+  gap: 2px;
+}
+
+.boardingTime div:nth-child(1) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(0, 0, 0, 0.64);
+}
+
+.boardingTime div:nth-child(2) {
+  padding: 4px 8px;
+  gap: 8px;
+
+  width: 54px;
+  height: 27px;
+
+  background: #633bbc;
+  border-radius: 8px;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+
+.boardingTerminal {
+  width: 95px;
+  height: 36px;
+}
+
+.boardingTerminal div:nth-child(1) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: rgba(0, 0, 0, 0.64);
+}
+
+.boardingTerminal div:nth-child(2) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: rgba(0, 0, 0, 0.88);
+}
+
+.boardingGate {
+  width: 95px;
+  height: 36px;
+}
+
+.boardingGate div:nth-child(1) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: rgba(0, 0, 0, 0.64);
+}
+
+.boardingGate div:nth-child(2) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: rgba(0, 0, 0, 0.88);
+}
+
+.boardingQrcode {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+
+  width: 160px;
+  height: 177px;
+}
+
+.boardingQrcode div:nth-child(1) {
+  width: 160px;
+  height: 160px;
+}
+
+.boardingQrcode div:nth-child(2) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: rgba(0, 0, 0, 0.64);
+}
+
+.hourAtention {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: rgba(0, 0, 0, 0.8);
+}

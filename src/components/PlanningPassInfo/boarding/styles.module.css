@@ -138,3 +138,7 @@
 
     color: rgba(0, 0, 0, 0.8);
 }
+
+.spacedTitle {
+    margin-bottom: 0.1rem;
+}

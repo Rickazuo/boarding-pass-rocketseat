@@ -7,7 +7,7 @@ const Boarding = () => {
             <div className={styles.boardingContainer}>
                 <div className={styles.boardingInfo}>
                     <div className={styles.boardingTime}>
-                        <div>Embarque</div>
+                        <div className={styles.spacedTitle}>Embarque</div>
                         <div>16:15</div>
                     </div>
                     <div className={styles.boardingTerminal}>

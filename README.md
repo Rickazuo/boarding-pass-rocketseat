@@ -14,7 +14,7 @@ Esse projeto é o #6 desafio <a href="https://boracodar.dev/">#BORACODAR</a> da 
 <br>
 
 <p align="center">
-  <img alt="boarding pass project" src="./src/assets/homeScreen.jpg" width="100%">
+  <img alt="boarding pass project" src="./src/assets/boardingPassScreen.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias

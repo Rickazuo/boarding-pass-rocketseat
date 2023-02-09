@@ -1,0 +1,43 @@
+.homePageBackground {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  background: linear-gradient(
+      0deg,
+      rgba(64, 43, 113, 0.1),
+      rgba(64, 43, 113, 0.1)
+    ),
+    url("../../assets/planeBackground.jpg");
+  backdrop-filter: blur(5px);
+
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.homePageBackground div:nth-child(1) {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 45px;
+  line-height: 53px;
+
+  color: #ffffff;
+}
+
+/* Middle Banner */
+.middleBanner {
+  width: 100vw;
+  height: 420px;
+
+  background: rgba(147, 137, 209, 0.7);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

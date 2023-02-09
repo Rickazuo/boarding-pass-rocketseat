@@ -4,8 +4,9 @@
     overflow: hidden;
     position: relative;
     padding: 10px 0;
+    color: #551590;
 }
 
-.dropDown option:nth-child() {
-    border-radius: 20px;
+.dropDown:focus {
+    border: 3px solid #551590;
 }

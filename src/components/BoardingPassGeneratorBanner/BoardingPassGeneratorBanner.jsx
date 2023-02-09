@@ -1,7 +1,9 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 import DropDown from "../DropDown/DropDown";
 import Input from "../Input/Input";
+// import Date from "../UiDatePicker/UiDatePicker";
 
 import styles from "./styles.module.css";
 
@@ -13,14 +15,24 @@ const defaultFlightInfo = {
     lastName: "",
 };
 
-const departureOptions = ["hey"];
-const destinationOptions = ["hello"];
-
-const BoardingPassGeneratorBanner = () => {
+const BoardingPassGeneratorBanner = ({ airports }) => {
+    const navigate = useNavigate();
     const [flightInfo, setFlightInfo] = useState(defaultFlightInfo);
-
     const onChange = (e, name) => {
-        setFlightInfo((prev) => ({ prev, [name]: e.target.value }));
+        setFlightInfo((prev) => ({ ...prev, [name]: e.target.value }));
+    };
+
+    const submit = () => {
+        const stringBegin = "Missing ";
+        let stringError = stringBegin;
+        Object.keys(flightInfo).forEach((item) => {
+            if (!flightInfo[item]) {
+                stringError = `${stringError}${item} | `;
+            }
+        });
+
+        if (stringError !== stringBegin) alert(stringError);
+        else navigate("/ticket");
     };
 
     return (
@@ -29,18 +41,14 @@ const BoardingPassGeneratorBanner = () => {
                 <DropDown
                     value={flightInfo.departure}
                     onChange={(e) => onChange(e, "departure")}
-                    options={departureOptions}
+                    options={airports}
                 />
                 <DropDown
                     value={flightInfo.destination}
                     onChange={(e) => onChange(e, "destination")}
-                    options={destinationOptions}
+                    options={airports}
                 />
-                <DropDown
-                    value={flightInfo.destination}
-                    onChange={(e) => onChange(e, "date")}
-                    options={destinationOptions}
-                />
+                {/* <Date /> */}
                 <button className={styles.smallBtn}>Assento</button>
             </div>
             <div className={styles.passengerInfo}>
@@ -49,10 +57,16 @@ const BoardingPassGeneratorBanner = () => {
                     value={flightInfo.firstName}
                     onChange={(e) => onChange(e, "firstName")}
                 />
-                <Input placeholder="Sobrenome" />
+                <Input
+                    placeholder="Sobrenome"
+                    value={flightInfo.lastName}
+                    onChange={(e) => onChange(e, "lastName")}
+                />
             </div>
             <div className={styles.buttonConfirmation}>
-                <button>Confirmar</button>
+                <button type="submit" onClick={submit}>
+                    Confirmar
+                </button>
             </div>
         </div>
     );

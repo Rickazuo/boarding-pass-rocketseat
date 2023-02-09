@@ -26,10 +26,12 @@ button {
 
 select {
     width: 156.33px;
-    height: 38px;
-
     background: #ffffff;
     border-right: 1px solid #402b71;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
+}
+
+input:focus {
+    border: 3px solid #551590;
 }

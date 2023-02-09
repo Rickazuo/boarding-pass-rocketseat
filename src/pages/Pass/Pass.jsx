@@ -5,9 +5,6 @@ const Pass = () => {
     return (
         <div>
             <PlanningPassInfo />
-            <footer className={styles.footer}>
-                <a href="https://rickazuo.github.io/portfolio/">Ricardo</a>
-            </footer>
         </div>
     );
 };

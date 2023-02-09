@@ -1,0 +1,972 @@
+[
+    {
+        "estado": "Goiás",
+        "aeroporto": "Goiânia",
+        "codigoIata": "GYN"
+    },
+    {
+        "estado": "Goiás",
+        "aeroporto": "Rio Verde",
+        "codigoIata": "RVD"
+    },
+    {
+        "estado": "Goiás",
+        "aeroporto": "Caldas Novas",
+        "codigoIata": "CLV"
+    },
+    {
+        "estado": "Goiás",
+        "aeroporto": "Catalão",
+        "codigoIata": "TLZ"
+    },
+    {
+        "estado": "Distrito Federal",
+        "aeroporto": "Brasília",
+        "codigoIata": "BSB"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Alta Floresta",
+        "codigoIata": "AFL"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Barra dos Garças",
+        "codigoIata": "BPG"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Cáceres",
+        "codigoIata": "CCX"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Cuiabá",
+        "codigoIata": "CGB"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Rondonópolis",
+        "codigoIata": "ROO"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Tangará da Serra",
+        "codigoIata": "TGQ"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Sinop",
+        "codigoIata": "OPS"
+    },
+    {
+        "estado": "Mato Grosso",
+        "aeroporto": "Sorriso",
+        "codigoIata": "SMT"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Bonito",
+        "codigoIata": "BYO"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Cassilândia",
+        "codigoIata": "CSS"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Campo Grande",
+        "codigoIata": "CGR"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Corumbá",
+        "codigoIata": "CMG"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Dourados",
+        "codigoIata": "DOU"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Paranaíba",
+        "codigoIata": "PBB"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Ponta Porã",
+        "codigoIata": "PMG"
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "aeroporto": "Três Lagoas",
+        "codigoIata": "TJL"
+    },
+    {
+        "estado": "Alagoas",
+        "aeroporto": "Arapiraca",
+        "codigoIata": "APQ"
+    },
+    {
+        "estado": "Alagoas",
+        "aeroporto": "Maceió",
+        "codigoIata": "MCZ"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Barra",
+        "codigoIata": "BQQ"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Barreiras",
+        "codigoIata": "BRA"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Belmonte",
+        "codigoIata": "BVM"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Bom Jesus da Lapa",
+        "codigoIata": "LAZ"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Brumado",
+        "codigoIata": "BMS"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Canavieiras",
+        "codigoIata": "CNV"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Caravelas",
+        "codigoIata": "CRQ"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Feira de Santana",
+        "codigoIata": "FEC"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Guanambi",
+        "codigoIata": "GNM"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Ilhéus",
+        "codigoIata": "IOS"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Ipiaú",
+        "codigoIata": "IPU"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Irecê",
+        "codigoIata": "IRE"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Itabuna",
+        "codigoIata": "ITN"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Ituberá",
+        "codigoIata": "ITE"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Jacobina",
+        "codigoIata": "JCM"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Jequié",
+        "codigoIata": "JEQ"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Lençóis",
+        "codigoIata": "LEC"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Mucuri",
+        "codigoIata": "MVS"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Paulo Afonso",
+        "codigoIata": "PAV"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Prado",
+        "codigoIata": "PDF"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Porto Seguro",
+        "codigoIata": "BPS"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Salvador",
+        "codigoIata": "SSA"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Teixeira de Freitas",
+        "codigoIata": "TXF"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Una",
+        "codigoIata": "UNA"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Valença",
+        "codigoIata": "VAL"
+    },
+    {
+        "estado": "Bahia",
+        "aeroporto": "Vitória da Conquista",
+        "codigoIata": "VDC"
+    },
+    {
+        "estado": "Ceará",
+        "aeroporto": "Aracati",
+        "codigoIata": "ARX"
+    },
+    {
+        "estado": "Ceará",
+        "aeroporto": "Camocim",
+        "codigoIata": "CMC"
+    },
+    {
+        "estado": "Ceará",
+        "aeroporto": "Fortaleza",
+        "codigoIata": "FOR"
+    },
+    {
+        "estado": "Ceará",
+        "aeroporto": "Jericoacoara",
+        "codigoIata": "JJD"
+    },
+    {
+        "estado": "Ceará",
+        "aeroporto": "Juazeiro do Norte",
+        "codigoIata": "JDO"
+    },
+    {
+        "estado": "Maranhão",
+        "aeroporto": "Balsas",
+        "codigoIata": "BSS"
+    },
+    {
+        "estado": "Maranhão",
+        "aeroporto": "Barreirinhas",
+        "codigoIata": "BRB"
+    },
+    {
+        "estado": "Maranhão",
+        "aeroporto": "Imperatriz",
+        "codigoIata": "IMP"
+    },
+    {
+        "estado": "Maranhão",
+        "aeroporto": "Pinheiro",
+        "codigoIata": "PHI"
+    },
+    {
+        "estado": "Maranhão",
+        "aeroporto": "São Luís",
+        "codigoIata": "SLZ"
+    },
+    {
+        "estado": "Paraíba",
+        "aeroporto": "Campina Grande",
+        "codigoIata": "CPV"
+    },
+    {
+        "estado": "Paraíba",
+        "aeroporto": "João Pessoa",
+        "codigoIata": "JPA"
+    },
+    {
+        "estado": "Pernambuco",
+        "aeroporto": "Caruaru",
+        "codigoIata": "CAU"
+    },
+    {
+        "estado": "Pernambuco",
+        "aeroporto": "Fernando de Noronha",
+        "codigoIata": "FEN"
+    },
+    {
+        "estado": "Pernambuco",
+        "aeroporto": "Petrolina",
+        "codigoIata": "PNZ"
+    },
+    {
+        "estado": "Pernambuco",
+        "aeroporto": "Recife",
+        "codigoIata": "REC"
+    },
+    {
+        "estado": "Pernambuco",
+        "aeroporto": "Serra Talhada",
+        "codigoIata": "SET"
+    },
+    {
+        "estado": "Piauí",
+        "aeroporto": "Floriano",
+        "codigoIata": "FLB"
+    },
+    {
+        "estado": "Piauí",
+        "aeroporto": "Guadalupe",
+        "codigoIata": "GDP"
+    },
+    {
+        "estado": "Piauí",
+        "aeroporto": "Parnaíba",
+        "codigoIata": "PHB"
+    },
+    {
+        "estado": "Piauí",
+        "aeroporto": "Picos",
+        "codigoIata": "PCS"
+    },
+    {
+        "estado": "Piauí",
+        "aeroporto": "Teresina",
+        "codigoIata": "THE"
+    },
+    {
+        "estado": "Rio Grande do Norte",
+        "aeroporto": "Mossoró",
+        "codigoIata": "MVF"
+    },
+    {
+        "estado": "Rio Grande do Norte",
+        "aeroporto": "Natal",
+        "codigoIata": "NAT"
+    },
+    {
+        "estado": "Sergipe",
+        "aeroporto": "Aracaju",
+        "codigoIata": "AJU"
+    },
+    {
+        "estado": "Acre",
+        "aeroporto": "Cruzeiro do Sul",
+        "codigoIata": "CZS"
+    },
+    {
+        "estado": "Acre",
+        "aeroporto": "Rio Branco",
+        "codigoIata": "RBR"
+    },
+    {
+        "estado": "Amapá",
+        "aeroporto": "Macapá",
+        "codigoIata": "MCP"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Barcelos",
+        "codigoIata": "BAZ"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Boca do Acre",
+        "codigoIata": "BCR"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Borba",
+        "codigoIata": "RBB"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Carauari",
+        "codigoIata": "CAF"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Coari",
+        "codigoIata": "CIZ"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Eirunepé",
+        "codigoIata": "ERN"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Fonte Boa",
+        "codigoIata": "FBA"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Humaitá",
+        "codigoIata": "HUW"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Itacoatiara",
+        "codigoIata": "ITA"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Lábrea",
+        "codigoIata": "LBR"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Manaus",
+        "codigoIata": "MAO"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Manicoré",
+        "codigoIata": "MNX"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Maués",
+        "codigoIata": "MBZ"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Novo Aripuanã",
+        "codigoIata": "NVP"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Parintins",
+        "codigoIata": "PIN"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Santa Isabel do Rio Negro",
+        "codigoIata": "IRZ"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Santo Antônio do Içá",
+        "codigoIata": "IPG"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "São Gabriel da Cachoeira",
+        "codigoIata": "SJL"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "São Paulo de Olivença",
+        "codigoIata": "OLC"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Tabatinga",
+        "codigoIata": "TBT"
+    },
+    {
+        "estado": "Amazonas",
+        "aeroporto": "Tefé",
+        "codigoIata": "TFF"
+    },
+    {
+        "estado": "Pará",
+        "aeroporto": "Altamira",
+        "codigoIata": "ATM"
+    },
+    {
+        "estado": "Pará",
+        "aeroporto": "Belém",
+        "codigoIata": "BEL"
+    },
+    {
+        "estado": "Pará",
+        "aeroporto": "Carajás",
+        "codigoIata": "CKS"
+    },
+    {
+        "estado": "Pará",
+        "aeroporto": "Itaituba",
+        "codigoIata": "ITB"
+    },
+    {
+        "estado": "Pará",
+        "aeroporto": "Marabá",
+        "codigoIata": "MAB"
+    },
+    {
+        "estado": "Pará",
+        "aeroporto": "Santarém",
+        "codigoIata": "STM"
+    },
+    {
+        "estado": "Rondônia",
+        "aeroporto": "Porto Velho",
+        "codigoIata": "PVH"
+    },
+    {
+        "estado": "Rondônia",
+        "aeroporto": "Ji Paraná",
+        "codigoIata": "JPR"
+    },
+    {
+        "estado": "Rondônia",
+        "aeroporto": "Cacoal",
+        "codigoIata": "OAL"
+    },
+    {
+        "estado": "Rondônia",
+        "aeroporto": "Vilhena",
+        "codigoIata": "BVH"
+    },
+    {
+        "estado": "Roraima",
+        "aeroporto": "Boa Vista",
+        "codigoIata": "BVB"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Araguaína",
+        "codigoIata": "AUX"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Arraias",
+        "codigoIata": "AAI"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Dianópolis",
+        "codigoIata": "DNO"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Gurupi",
+        "codigoIata": "GRP"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Miracema do Tocantins",
+        "codigoIata": "NTM"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Palmas",
+        "codigoIata": "PMW"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Porto Nacional",
+        "codigoIata": "PNB"
+    },
+    {
+        "estado": "Tocantins",
+        "aeroporto": "Taguatinga",
+        "codigoIata": "QHN"
+    },
+    {
+        "estado": "Espírito Santo",
+        "aeroporto": "Vitória",
+        "codigoIata": "VIX"
+    },
+    {
+        "estado": "Espírito Santo",
+        "aeroporto": "Cachoeiro de Itapemirim",
+        "codigoIata": "CDI"
+    },
+    {
+        "estado": "Espírito Santo",
+        "aeroporto": "Guarapari",
+        "codigoIata": "GUZ"
+    },
+    {
+        "estado": "Espírito Santo",
+        "aeroporto": "São Mateus",
+        "codigoIata": "SBJ"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Barbacena",
+        "codigoIata": "QAK"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Patos de Minas",
+        "codigoIata": "POJ"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Confins",
+        "codigoIata": "CNF"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Divinópolis",
+        "codigoIata": "DIQ"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Governador Valadares",
+        "codigoIata": "GVR"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Juiz de Fora",
+        "codigoIata": "JDF"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Montes Claros",
+        "codigoIata": "MOC"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Pampulha",
+        "codigoIata": "PLU"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Poços de Caldas",
+        "codigoIata": "POO"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "São João del-Rei",
+        "codigoIata": "JDR"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Uberlândia",
+        "codigoIata": "UDI"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Uberaba",
+        "codigoIata": "UBA"
+    },
+    {
+        "estado": "Minas Gerais",
+        "aeroporto": "Zona da Mata",
+        "codigoIata": "IZA"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Bartolomeu de Gusmão",
+        "codigoIata": "SNZ"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Campos dos Goytacazes",
+        "codigoIata": "CAW"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Cabo Frio",
+        "codigoIata": "CFB"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Galeão",
+        "codigoIata": "GIG"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Itaperuna",
+        "codigoIata": "ITP"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Macaé",
+        "codigoIata": "MEA"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Resende",
+        "codigoIata": "QRZ"
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "aeroporto": "Santos Dumont",
+        "codigoIata": "SDU"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Araçatuba",
+        "codigoIata": "ARU"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Araraquara",
+        "codigoIata": "AQA"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Assis",
+        "codigoIata": "AIF"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Avaré/Arandu",
+        "codigoIata": "QVP"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Barretos",
+        "codigoIata": "BAT"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Bauru/Arealva",
+        "codigoIata": "JTC"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Botucatu",
+        "codigoIata": "QCP"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Bragança Paulista",
+        "codigoIata": "BJP"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Campo dos Amarais",
+        "codigoIata": "CPQ"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Congonhas",
+        "codigoIata": "CGH"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Dracena",
+        "codigoIata": "QDC"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Guaratinguetá",
+        "codigoIata": "GUJ"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Guarulhos",
+        "codigoIata": "GRU"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Franca",
+        "codigoIata": "FRC"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Jundiaí",
+        "codigoIata": "QDV"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Lençóis Paulista",
+        "codigoIata": "QGC"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Lins",
+        "codigoIata": "LIP"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Marília",
+        "codigoIata": "MII"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Ourinhos",
+        "codigoIata": "OUS"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Piracicaba",
+        "codigoIata": "QHB"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Presidente Prudente",
+        "codigoIata": "PPB"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Ribeirão Preto",
+        "codigoIata": "RAO"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "São Carlos",
+        "codigoIata": "QSC"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "São José do Rio Preto",
+        "codigoIata": "SJP"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "São José dos Campos",
+        "codigoIata": "SJK"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Sorocaba",
+        "codigoIata": "SOD"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Ubatuba",
+        "codigoIata": "UBT"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Viracopos",
+        "codigoIata": "VCP"
+    },
+    {
+        "estado": "São Paulo",
+        "aeroporto": "Votuporanga",
+        "codigoIata": "VOT"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Cascavel",
+        "codigoIata": "CAC"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Curitiba",
+        "codigoIata": "CWB"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Foz do Iguaçu",
+        "codigoIata": "IGU"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Londrina",
+        "codigoIata": "LDB"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Maringá",
+        "codigoIata": "MGF"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Ponta Grossa",
+        "codigoIata": "PGZ"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Umuarama",
+        "codigoIata": "UMU"
+    },
+    {
+        "estado": "Paraná",
+        "aeroporto": "Pato Branco",
+        "codigoIata": "PTO"
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "aeroporto": "Bagé",
+        "codigoIata": "BGX"
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "aeroporto": "Caxias do Sul",
+        "codigoIata": "CXJ"
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "aeroporto": "Passo Fundo",
+        "codigoIata": "PFB"
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "aeroporto": "Porto Alegre",
+        "codigoIata": "POA"
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "aeroporto": "Santa Maria",
+        "codigoIata": "RIA"
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "aeroporto": "Uruguaiana",
+        "codigoIata": "URG"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Blumenau",
+        "codigoIata": "BNU"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Chapecó",
+        "codigoIata": "XAP"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Forquilhinha",
+        "codigoIata": "CCM"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Florianópolis",
+        "codigoIata": "FLN"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Jaguaruna",
+        "codigoIata": "JJG"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Joaçaba",
+        "codigoIata": "JCB"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Joinville",
+        "codigoIata": "JOI"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Lages",
+        "codigoIata": "LAJ"
+    },
+    {
+        "estado": "Santa Catarina",
+        "aeroporto": "Navegantes",
+        "codigoIata": "NVT"
+    }
+]

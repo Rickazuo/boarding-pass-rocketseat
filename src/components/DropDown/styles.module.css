@@ -1,0 +1,11 @@
+.dropDown {
+    background: #e3d7ee;
+    width: 200px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 0;
+}
+
+.dropDown option:nth-child() {
+    border-radius: 20px;
+}

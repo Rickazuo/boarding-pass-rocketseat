@@ -1,0 +1,91 @@
+.middleBanner {
+    width: 1447px;
+    height: 420px;
+
+    background: rgba(147, 137, 209, 0.7);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    z-index: 4;
+}
+
+/* Button Banner */
+.buttonBanner {
+    width: 836px;
+    height: 241px;
+    left: 302px;
+    top: 90px;
+    gap: 2.3125rem;
+
+    background: rgba(71, 51, 96, 0.9);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Flight Info Buttons */
+.flightInfo {
+    width: 670.33px;
+    height: 39px;
+    gap: 1.25rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* Passenger Informations */
+.passengerInfo {
+    display: flex;
+    flex-direction: row;
+    gap: 2.25rem;
+    justify-content: space-around;
+
+    width: 517px;
+    height: 38px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.passengerInfo input:nth-child(n) {
+    background: #e3d7ee;
+    border-radius: 0.625rem;
+}
+
+/* Confirmation */
+.buttonConfirmation {
+    display: flex;
+    flex-direction: row;
+    color: #ebebeb;
+}
+
+.buttonConfirmation button:nth-child(1) {
+    width: 250px;
+    height: 31.86px;
+    background: rgba(52, 30, 104, 0.8);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+    color: #ebebeb;
+    border: none;
+    cursor: pointer;
+}
+
+.buttonConfirmation button:nth-child(1):hover {
+    background: rgba(54, 35, 100, 0.8);
+    color: #e3d7ee;
+}
+
+.smallBtn {
+    background: #633bbc;
+    color: #ebebeb;
+    border: none;
+    cursor: pointer;
+}
+
+.smallBtn:hover {
+    background: #6840bf;
+    color: #e3d7ee;
+}

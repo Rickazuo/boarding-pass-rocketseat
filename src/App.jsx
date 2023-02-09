@@ -1,15 +1,16 @@
-import PlanningPassInfo from "./components/PlanningPassInfo";
-import styles from "./App.module.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Pass from "./pages/Pass/Pass";
+import Home from "./pages/Home/Home";
+import "./global.css";
 
 function App() {
     return (
-        <div>
-            <PlanningPassInfo />
-            <footer className={styles.footer}>
-                Made by <a href="https://gsajulia.github.io/">Julia </a>and{" "}
-                <a href="https://rickazuo.github.io/portfolio/">Ricardo</a>
-            </footer>
-        </div>
+        <BrowserRouter>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/pass" element={<Pass />} />
+            </Routes>
+        </BrowserRouter>
     );
 }
 

@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+    font-style: normal;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+a {
+    color: #a78be9;
+    display: block;
+    padding-left: 8px;
+    padding-right: 8px;
+}

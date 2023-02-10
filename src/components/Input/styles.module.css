@@ -1,9 +1,9 @@
 .defaultInput {
-    padding: 17px;
+    padding-left: 17px;
     border: 1px solid #ccc;
     border-radius: 3px;
-    margin-bottom: 10px;
-    width: 100%;
+    width: 200px;
+    height: 40px;
     box-sizing: border-box;
     color: #2c3e50;
     font-size: 13px;

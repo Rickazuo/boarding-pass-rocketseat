@@ -1,15 +1,20 @@
 import styles from "./styles.module.css";
+import { getRandomInt } from "../../../utils";
 
-const Passenger = () => {
+const seats = ["A", "B", "C", "D", "F"];
+const Passenger = ({ name }) => {
     return (
         <div className={styles.passenger}>
             <div className={styles.passengerTag}>
                 <div>Passageiro</div>
-                <strong>Rodrigo Terron</strong>
+                <strong>{name}</strong>
             </div>
             <div className={styles.seatTag}>
                 <div>Assento</div>
-                <strong>28A</strong>
+                <strong>
+                    {getRandomInt(32)}
+                    {seats[getRandomInt(5)]}
+                </strong>
             </div>
         </div>
     );

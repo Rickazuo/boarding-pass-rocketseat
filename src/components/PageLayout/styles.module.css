@@ -5,15 +5,11 @@
         #402b71 35%,
         #271a45 100%
     );
-    align-self: flex-end;
-    position: absolute;
+    position: relative;
     width: 100%;
-    bottom: 0;
     min-height: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
     color: #ebebeb;
-
-    z-index: 3;
 }

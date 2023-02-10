@@ -8,6 +8,7 @@ const DropDownButton = ({ onChange, value, options }) => {
                     key={option.codigoIata}
                     className={styles.optionStyle}
                     value={option.aeroporto}
+                    // defaultValue={options[0].aeroporto}
                 >
                     {option.aeroporto}
                 </option>

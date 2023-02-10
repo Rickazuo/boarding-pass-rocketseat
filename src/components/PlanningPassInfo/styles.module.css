@@ -29,6 +29,7 @@
 }
 
 .boardingPass {
+    margin-top: min(50px, 15%);
     width: 327px;
     height: 656px;
 

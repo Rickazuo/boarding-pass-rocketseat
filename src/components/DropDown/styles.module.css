@@ -1,9 +1,9 @@
 .dropDown {
     background: #e3d7ee;
     width: 200px;
+    height: 40px;
     overflow: hidden;
     position: relative;
-    padding: 10px 0;
     color: #551590;
 }
 

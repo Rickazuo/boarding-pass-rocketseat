@@ -17,7 +17,7 @@ const Flight = ({ date, departure, destination, time }) => {
             </div>
             <div className={styles.footerFlight}>
                 <div className={styles.departure}>
-                    <div className={styles.city}>{departure.estado}</div>
+                    <div className={styles.city}>{departure.aeroporto}</div>
                     <strong className={styles.abreviationAirport}>
                         {departure.codigoIata}
                     </strong>
@@ -27,7 +27,7 @@ const Flight = ({ date, departure, destination, time }) => {
                     <img src={plane} alt="a little plane image" />
                 </div>
                 <div className={styles.arrival}>
-                    <div className={styles.city}>{destination.estado}</div>
+                    <div className={styles.city}>{destination.aeroporto}</div>
                     <strong className={styles.abreviationAirport}>
                         {destination.codigoIata}
                     </strong>

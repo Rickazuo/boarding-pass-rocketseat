@@ -2,6 +2,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Pass from "./pages/Pass/Pass";
 import Home from "./pages/Home/Home";
 import PageLayout from "./components/PageLayout/PageLayout";
+import Seats from "./components/Seats/Seats";
+
 import "./global.css";
 
 function App() {

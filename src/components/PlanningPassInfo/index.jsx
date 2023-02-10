@@ -48,6 +48,7 @@ const PlanningPassInfo = () => {
                         <div className={styles.divider}></div>
                         <Passenger
                             name={`${ticket?.firstName} ${ticket?.lastName}`}
+                            seat={ticket?.seat}
                         />
                         <div className={styles.divider}></div>
                         <Boarding time={formattedDate?.time} />

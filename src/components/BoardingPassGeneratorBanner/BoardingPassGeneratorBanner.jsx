@@ -9,8 +9,8 @@ import styles from "./styles.module.css";
 
 const BoardingPassGeneratorBanner = ({ airports }) => {
     const defaultFlightInfo = {
-        destination: airports[0].aeroporto,
-        departure: airports[0].aeroporto,
+        destination: "",
+        departure: "",
         date: "",
         firstName: "",
         lastName: "",
@@ -68,11 +68,13 @@ const BoardingPassGeneratorBanner = ({ airports }) => {
                         value={flightInfo.departure}
                         onChange={(e) => onChange(e, "departure")}
                         options={airports}
+                        label="Embarque"
                     />
                     <DropDown
                         value={flightInfo.destination}
                         onChange={(e) => onChange(e, "destination")}
                         options={airports}
+                        label="Destino"
                     />
                     <input
                         type="datetime-local"
